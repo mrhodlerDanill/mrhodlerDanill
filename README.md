@@ -25,3 +25,10 @@ technical_background:
  hobbies: ['treveling', 'learning of foreing langvages']
   * '''
 
+![image](https://user-images.githubusercontent.com/108091988/226195525-1623c4bb-ac70-4ae1-b7a9-c52bb96d8bc0.png)
+
+![image](https://user-images.githubusercontent.com/108091988/226195563-f01bd08a-8dcc-45b6-8937-812414480abd.png)
+
+![image](https://user-images.githubusercontent.com/108091988/226195600-a02d4145-ead8-4d32-b631-7d120cf9187c.png)
+
+
