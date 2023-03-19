@@ -5,5 +5,25 @@
 Here are some ideas to get you started:
 
 '''yaml * 
-name *'''
+name: Daniel 
+located_in: scandinavian county
+current_job: pre-sail engineer
+education:
+  [ 'Self - Taught developer',
+    'Master in telecommunication'
+  ]
+company: 2test
+
+fields_of_interests:
+  ['Web3',
+   'DevOps',
+  ]
+technical_background:
+  ['optical meserement equipment'
+   'backend by Python'
+  ]
+ currently_learning: ['Animble and Python']
+ goals: ['become a volidator in tier network']
+ hobbies: ['treveling', 'learning of foreing langvages']
+  *'''
 -->
